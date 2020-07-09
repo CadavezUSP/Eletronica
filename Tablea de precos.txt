@@ -5,7 +5,7 @@ diodo z 1n4728       |  0,16  |
 resistor 100R        |  0,13  |
 4 diodos 1n4148      |  1,20  |
 Transformador 127v   |  30,00 |
-Capacitor 470uF/50F  |  1,00  |
+Capacitor 470uF/50v  |  1,00  |
 potenciometro 10KR   |  1,40  |
 resistor 1kRc        |  0,86  |
 ---------------------+--------+
