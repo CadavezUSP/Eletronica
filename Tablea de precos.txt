@@ -1,4 +1,4 @@
-1 transistor npn     |  1,75  |
+1 transistor BC337   |  0,60  |
 resistor 10R         |  0,08  |
 3 resistores 2000R   |  0,41  |
 diodo z 1n4728       |  0,16  |
@@ -9,5 +9,5 @@ Capacitor 470uF/50v  |  1,00  |
 potenciometro 10KR   |  1,40  |
 resistor 1kRc        |  0,86  |
 ---------------------+--------+
-Total                | 36,99  |
+Total                | 35,84  |
 ---------------------+--------+
